@@ -1,4 +1,7 @@
-#Hi 
-#hello 
+#hello
 
+<<<<<<< HEAD
 #neweefjnsf
+=======
+#hi
+>>>>>>> master
