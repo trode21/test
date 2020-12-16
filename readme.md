@@ -1,7 +1,1 @@
-#hello
-
-<<<<<<< HEAD
-#neweefjnsf
-=======
-#hi
->>>>>>> master
+#hello this is a test for github
